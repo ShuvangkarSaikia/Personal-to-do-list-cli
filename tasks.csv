@@ -1,0 +1,10 @@
+task_id,description,priority,status,date_created,date_completed
+T001,Complete data analytics assignment,High,Pending,2025-08-15,
+T002,Pay electricity bill,Medium,Completed,2025-08-14,2025-08-16
+T003,Buy groceries for the week,Medium,Pending,2025-08-16,
+T004,Schedule dentist appointment,Low,Pending,2025-08-17,
+T005,Prepare presentation slides,High,Completed,2025-08-13,2025-08-15
+T006,Call insurance company,Medium,Pending,2025-08-17,
+T007,Read Python programming book,Low,Pending,2025-08-16,
+T008,Submit project proposal,High,Pending,2025-08-17,
+T009,Practice Python programming daily,Medium,Pending,2025-08-17,
